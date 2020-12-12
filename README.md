@@ -1,1 +1,6 @@
 # Automotive_Stock_Analysis
+All stocks in the review sample had a pandemic sell-off with losses of between 25% and 60% across the different regions. 
+The US region had the greatest falls in value (> 50%) for all stocks however all except Ford were able to recover these losses and perform better than their pre-pandemic sell-off price. Tesla had the greatest growth in value to end the period > 400% up, Ford had the worst perfomance to end the period more or less flat.
+Non-US manufacturer also faced the pandemic sell-off but European Manufacturers had an average 30% drop versus an average 25% drop from their Asian counterparts. Both regions while performing better during the sell-off have had different outcomes post the sell-off with Europe having better recovery and an average price growth of 30% compared to only 15% for Asia.
+Looking at the distribution of daily returns across the regions; US firms performed better on average showing growth or breaking even, Asian firms underperformed in comparision to the broader group and European firms ended up even.
+US firms prices showed broader variability compared to Asian and European firms.
