@@ -9,7 +9,9 @@ Group:
 Melissa Smashey, Matt Egan, Tiffany McGowan ,Mark Munanura
 
 Dataset
+
 Yahoo Finance Module(yfinance)
+
 -Ajusted close and added the Daily Return using the pandas percent change method
 
 Packages
