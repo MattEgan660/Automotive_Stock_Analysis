@@ -8,8 +8,8 @@ Yahoo Finance Module(yfinance)
 -Ajusted close and added the Daily Return using the pandas percent change method
 
 Packages:
-matplotlib
-seaborn
+matplotlib,
+seaborn,
 yfiance
 
 Goals of the Analysis:
