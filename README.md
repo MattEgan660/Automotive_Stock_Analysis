@@ -29,7 +29,7 @@ How we defined manufacturer market segment:
 
 The Goal of the analysis is to find out the best performing auto stock that overcame the covid pandemic and will have the best potential in the next 30 days. We will look at daily return rates using the adjusted close over the last year to see how the stocks performed pre and post covid as well as predict the next 30 days using a predicting simulation called Monte Carlo Simulation. We will focus on Risk and Expected Returns, and moving averages to determine the best stock that has performed the best thus far in 2020.
 
-##Conclusion:
+## Conclusion:
 
 ### Was there any correlation between based on manufacturer region or market segmentation.
 
